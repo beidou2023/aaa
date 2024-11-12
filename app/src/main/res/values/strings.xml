@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <array name="tipo">
+        <item>Lacteo</item>
+        <item>Verdura</item>
+        <item>Licor</item>
+
+    </array>
+</resources>
